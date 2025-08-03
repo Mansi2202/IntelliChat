@@ -149,10 +149,3 @@ Feel free to raise issues or feature requests.
 
 ---
 
-```
-
-Let me know if you'd like:
-- A sample `requirements.txt`
-- GitHub repo structure auto-upload
-- Deployment instructions (Streamlit Cloud, Hugging Face Spaces, etc.)
-```
