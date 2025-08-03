@@ -1,8 +1,3 @@
-Here's the complete `README.md` file for your project **IntelliChat**:
-
----
-
-````markdown
 # 🤖 IntelliChat
 
 IntelliChat is a smart, interactive chatbot application powered by **LangChain** and **OpenAI**. Built with **Streamlit**, it supports:
@@ -47,7 +42,7 @@ IntelliChat is a smart, interactive chatbot application powered by **LangChain**
 ```bash
 git clone https://github.com/yourusername/IntelliChat.git
 cd IntelliChat
-````
+```
 
 ### 2. Create Virtual Environment (optional but recommended)
 
@@ -94,7 +89,7 @@ OPENAI_API_KEY=your-openai-api-key
 
 ## 📁 File Upload Format
 
-* PDF: Any readable text-based document
+* PDF: Any readable text-based document  
 * CSV: Well-formatted table with headers
 
 Once uploaded, IntelliChat can answer questions **based on the content** of the file.
@@ -107,7 +102,7 @@ Once uploaded, IntelliChat can answer questions **based on the content** of the 
 streamlit run app.py
 ```
 
-Then open your browser and go to:
+Then open your browser and go to:  
 `http://localhost:8501`
 
 ---
@@ -129,9 +124,9 @@ IntelliChat/
 
 ## 📣 Future Ideas
 
-* Add support for DOCX or XLSX files
-* User login with session-based chat history
-* Choice of LLMs (GPT-4, LLaMA 2, Mistral, etc.)
+* Add support for DOCX or XLSX files  
+* User login with session-based chat history  
+* Choice of LLMs (GPT-4, LLaMA 2, Mistral, etc.)  
 * Export full chat as PDF
 
 ---
@@ -144,8 +139,5 @@ This project is licensed under the MIT License.
 
 ## 🙋‍♀️ Contact
 
-Created by **Mansi Gupta**.
+Created by **Mansi Gupta**.  
 Feel free to raise issues or feature requests.
-
----
-
